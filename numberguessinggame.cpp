@@ -1,6 +1,5 @@
 #include <iostream>
 #include <random>
-// Hello!! second commit testing!
 void getInput(int random)
 {
 	int input{};
